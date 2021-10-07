@@ -1,4 +1,5 @@
 ### Hi there 👋
+![Minhyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=dksalsgus&show_icons=true&theme=radical)
 
 <!--
 **dksalsgus/dksalsgus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
